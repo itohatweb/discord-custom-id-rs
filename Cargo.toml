@@ -12,4 +12,4 @@ bitvec = "1.0.1"
 custom-id-macro = { path = "custom-id-macro" }
 thiserror = "2.0.2"
 
-twilight-model = "=0.16.0-rc.1"
+twilight-model = "0.16.0"
